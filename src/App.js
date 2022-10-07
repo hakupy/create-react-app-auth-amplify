@@ -16,6 +16,7 @@ class App extends Component {
         </header>
         <h1>Sample App</h1>
         <p>サンプルで作成したアプリです。</p>
+        <p>VisualStudioCodeWebから編集しました。</p>
       </div>
     );
   }
